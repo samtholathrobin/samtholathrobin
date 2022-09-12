@@ -1,6 +1,6 @@
 ### Hey😄
 ## It's Sam Tholath Robin
-
+A young and inspired programmer with a big heart and a hope to createe a change.
 <img align="right" src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" alt="Coding GIF">
 
 <!--- Socials --->
